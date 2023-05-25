@@ -1,0 +1,11 @@
+{
+  "name": "tarea_lab_06_acosta_cayotopa",
+  "version": "1.0.0",
+  "description": "Tarea - Laboratorio - 06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldair Acosta",
+  "license": "ISC"
+}
